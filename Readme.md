@@ -71,20 +71,6 @@ Linear models fail to capture nonlinear dependencies in financial markets.
 - No regime detection
 - No nonlinear modeling
 
----
-
-## 🚀 Future Work
-- XGBoost / Random Forest
-- Neural Networks / Transformers
-- Backtesting strategies
-- Advanced feature engineering
-
----
-
-## 💼 Resume Highlight
-Developed a predictive modeling pipeline on S&P 500 futures using engineered features, demonstrating limitations of linear models and identifying regime-dependent predictability.
-
----
 
 ## 🧠 Conclusion
 Financial markets are near-efficient at short horizons, requiring advanced models for meaningful prediction.
